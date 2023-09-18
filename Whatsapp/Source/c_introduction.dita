@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_introduction">
+    <title>Introduction</title>
+    <shortdesc>This topic describes about what is whatsapp and its features.</shortdesc>
+    <conbody>
+        <p>WhatsApp is a messaging platform. It lets you to make a conversation, sent and receive
+            photos and videos, make audio and video calls, sharing documents, sending voice messages
+            and UPI payments. For Information about WhatsApp, refer<xref
+                href="https://en.wikipedia.org/wiki/WhatsApp" format="html" scope="external"
+                >WhatsApp wiki</xref> .</p>
+    </conbody>
+</concept>

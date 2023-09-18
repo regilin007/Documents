@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_transaction_types">
+    <title>Transaction Types</title>
+    <shortdesc>This topic tells about types of transaction used in SBI ATM.</shortdesc>
+</concept>

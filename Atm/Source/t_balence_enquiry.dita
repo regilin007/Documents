@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_balence_enquiry">
+    <title>Balence Enquiry</title>
+    <shortdesc>This topic describes about how to check balance.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Insert card into the slot.</cmd>
+            </step>
+            <step>
+                <cmd>Select language.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>BANKING</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter any two-digit number.</cmd>
+            </step>
+            <step>
+                <cmd>Enter PIN.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>BALENCE INQ</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select transaction type. For information about transaction type, see <xref
+                        href="c_transaction_types.dita"/> .</cmd>
+                <stepresult>The screen displays the balance.</stepresult>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Yes</uicontrol> to print receipt or <uicontrol>No</uicontrol>
+                    to end transaction.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

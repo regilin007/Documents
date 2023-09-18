@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>WhatsApp</title>
+    <topicref href="c_introduction.dita"/>
+    <topicref href="t_installation.dita" platform="Android"/>
+    <topicref href="t_installation_ios.dita" platform="IOS"/>
+    <topicref href="t_Account_Creation.dita"/>
+    <topicref href="t_Terms_and_Privacy_Policy.dita"/>
+</map>

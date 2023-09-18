@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_Account_Creation">
+    <title>Account Creation</title>
+    <shortdesc>This Topic describes about how to create whatsapp profile.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open WhatsApp.</cmd>
+            </step>
+            <step>
+                <cmd>Select language.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Agree and continue</uicontrol>. For more information about terms
+                    and privacy policy, see <xref href="t_Terms_and_Privacy_Policy.dita"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Tap  <uicontrol>ALLOW</uicontrol> to receive notification or <uicontrol>DON'T
+                        ALLOW</uicontrol> to ignore notification.</cmd>
+            </step>
+            <step>
+                <cmd>Select region.</cmd>
+            </step>
+            <step>
+                <cmd>Enter phone number.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>ok</uicontrol> to receive OTP or <uicontrol>Edit</uicontrol> to
+                    change number.</cmd>
+            </step>
+            <step>
+                <cmd>Enter OTP.</cmd>
+                <info>WhatsApp automatically verifies OTP.</info>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Continue</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Continue</uicontrol> to allow Whatsapp to access media and
+                    contacts or <uicontrol>Not now</uicontrol> to deny permission. </cmd>
+            </step>
+            <step>
+                <cmd>Enter profile name.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the camera icon to add profile photo.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

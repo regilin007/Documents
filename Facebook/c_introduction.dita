@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_introduction">
+    <title>Introduction</title>
+    <shortdesc>Facebook is a social platform that connects people across the world.</shortdesc>
+    <conbody>
+        <p>Facebook is a social media platform, that allows users to create profile, post content
+            like photos or videos, message with new people, share stories, make audio or video
+            calls, updating status, browse news feed to see what others posting, and sell or buy
+            products in facebook marketplace. Facebook was founded by Mark Zuckerberg who also owns
+            other platform such as WhatsApp, Instagram, Threads, and Meta. For more information
+            about Facebook, refer <xref href="https://en.wikipedia.org/wiki/Facebook" format="html"
+                scope="external">Facebook wiki</xref>.</p>
+    </conbody>
+</concept>

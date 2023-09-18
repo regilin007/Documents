@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Automated Teller Machine</title>
+    <topicref href="c_indroduction.dita"/>
+    <topicref href="t_cash_withdrawal.dita"/>
+    <topicref href="t_balence_enquiry.dita"/>
+    <topicref href="t_mini_statement.dita"/>
+    <topicref href="c_transaction_types.dita">
+        <topicref href="c_current_account.dita"/>
+        <topicref href="c_savings_account.dita"/>
+    </topicref>
+</map>

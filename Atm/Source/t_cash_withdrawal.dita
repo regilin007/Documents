@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_cash_withdrawal">
+    <title>Cash Withdrawal</title>
+    <shortdesc>This topic describes about how to withdraw cash from ATM</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Insert card into the slot.</cmd>
+            </step>
+            <step>
+                <cmd>Select language.</cmd>
+            </step>
+            <step>
+                <cmd>Select  <uicontrol>BANKING</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter any two-digit number.</cmd>
+            </step>
+            <step>
+                <cmd>Enter PIN.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>CASH WITHDRAWAL</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select transaction type. For information about transaction type, see <xref
+                        href="c_transaction_types.dita"/> .</cmd>
+            </step>
+            <step>
+                <cmd>Enter amount.</cmd>
+                <stepresult>Collect the cash from the dispenser.</stepresult>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Yes</uicontrol> to print receipt or <uicontrol>No</uicontrol>
+                    to end transaction.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

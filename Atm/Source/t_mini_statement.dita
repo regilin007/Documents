@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_mini_statement">
+    <title>Mini Statement</title>
+    <shortdesc>This Topic describes about how to get mini statement.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Insert card into the slot.</cmd>
+            </step>
+            <step>
+                <cmd>Select language.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>MINI STATEMENT</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter PIN.</cmd>
+                <stepresult>Collect receipt.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_account_creation">
+    <title>Account Creation</title>
+    <shortdesc>This topic is about how to create an facebook account.</shortdesc>
+    <taskbody>
+        <steps id="steps_ajb_vkx_syb">
+            <step>
+                <cmd>Launch Chrome browser.</cmd>
+            </step>
+            <step>
+                <cmd>Search facebook sign up in the search box.</cmd>
+            </step>
+            <step>
+                <cmd>Click sign up.</cmd>
+            </step>
+            <step>
+                <cmd>Enter first name, sur name.</cmd>
+            </step>
+            <step>
+                <cmd>Enter mobile number or email address.</cmd>
+            </step>
+            <step>
+                <cmd>Enter new password.</cmd>
+            </step>
+            <step>
+                <cmd>Select date of birth.</cmd>
+            </step>
+            <step>
+                <cmd>Select gender.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Sign Up</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_savings_account">
+    <title>Savings Account</title>
+    <shortdesc>This topic describes about savings account,</shortdesc>
+    <conbody>
+        <p>Savings accounts are handled by average individual to gain interest with limited
+            transactions per month.</p>
+    </conbody>
+</concept>

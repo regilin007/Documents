@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_current_account">
+    <title>Current Account</title>
+    <shortdesc>This topic describes about current account.</shortdesc>
+    <conbody>
+        <p>Current accounts are paid accounts handled by people who are running business with no
+            transaction restriction.</p>
+    </conbody>
+</concept>
