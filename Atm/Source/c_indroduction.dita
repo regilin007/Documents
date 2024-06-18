@@ -4,10 +4,9 @@
     <title>Indroduction</title>
     <shortdesc>This topic describes about what is ATM and its purpose.</shortdesc>
     <conbody>
-        <p>An Automated Teller Machine (ATM) is an electronic machine used in withdraw money, I have
-            added a sample content here check account balance, check mini-statements, transfer money
-            and much more by using credit or debit cards which are provided by the bank. For more
-            information about ATM, <xref
+        <p>An Automated Teller Machine (ATM) is an electronic machine used in withdraw money, check
+            account balance, check mini-statements, transfer money and much more by using credit or
+            debit cards which are provided by the bank. For more information about ATM, <xref
                 href="https://en.wikipedia.org/wiki/Automated_teller_machine" format="html"
                 scope="external">ATM wiki</xref>.</p>
     </conbody>

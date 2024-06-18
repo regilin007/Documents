@@ -3,7 +3,6 @@
 <map>
     <title>Automated Teller Machine</title>
     <topicref href="c_indroduction.dita"/>
-    <topicref href="t_sample_topic.dita"/>
     <topicref href="t_cash_withdrawal.dita"/>
     <topicref href="t_balence_enquiry.dita"/>
     <topicref href="t_mini_statement.dita"/>
